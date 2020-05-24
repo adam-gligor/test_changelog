@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.1.3 (2020-05-24)
+
+#### New Features
+
+* thrid feat
+
 ## 1.1.2 (2020-05-24)
 
 #### Fixes
