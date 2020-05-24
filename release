@@ -1,0 +1,6 @@
+echo "before continuing check the following:"
+echo "  - you are in a git repository"
+echo "  - [auto-changelog] is installed"
+echo "  - [master] branch points to the same changeset on local and remote"
+echo "  - [develop] branch points to the same changeset on local and remote"
+echo "  - [develop] is the active branch"
