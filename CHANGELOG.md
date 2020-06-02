@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.6.1 (2020-06-02)
+
+#### Fixes
+
+* TEST-01 description
+
+Full set of changes: [`1.7.0...1.6.1`](https://github.com/adam-gligor/test_changelog/compare/1.7.0...1.6.1)
+
 ## 1.7.0 (2020-06-02)
 
 #### New Features
