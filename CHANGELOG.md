@@ -1,5 +1,32 @@
 # Changelog
 
+## 1.9.0 (2020-06-02)
+
+#### New Features
+
+* TEST-05 another feature
+#### Fixes
+
+* TEST-04 another fix
+
+Full set of changes: [`1.8.0...1.9.0`](https://github.com/adam-gligor/test_changelog/compare/1.8.0...1.9.0)
+
+## 1.8.0 (2020-06-02)
+
+#### New Features
+
+* TEST-02 another feature
+#### Fixes
+
+* TEST-03 another fix
+
+Full set of changes: [`1.7.1...1.8.0`](https://github.com/adam-gligor/test_changelog/compare/1.7.1...1.8.0)
+
+## 1.7.1 (2020-06-02)
+
+
+Full set of changes: [`1.6.1...1.7.1`](https://github.com/adam-gligor/test_changelog/compare/1.6.1...1.7.1)
+
 ## 1.6.1 (2020-06-02)
 
 #### Fixes
