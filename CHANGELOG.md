@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.11.0 (2020-06-05)
+
+#### New Features
+
+* PROJ-13 a new feature
+
+Full set of changes: [`1.10.0...1.11.0`](https://github.com/adam-gligor/test_changelog/compare/1.10.0...1.11.0)
+
 ## 1.10.0 (2020-06-05)
 
 #### New Features
