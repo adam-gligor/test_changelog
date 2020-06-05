@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.10.0 (2020-06-05)
+
+#### New Features
+
+* FEAT-11 a feature
+
+Full set of changes: [`1.9.0...1.10.0`](https://github.com/adam-gligor/test_changelog/compare/1.9.0...1.10.0)
+
 ## 1.9.0 (2020-06-02)
 
 #### New Features
